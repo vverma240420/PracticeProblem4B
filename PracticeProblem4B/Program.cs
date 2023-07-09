@@ -11,6 +11,7 @@
 
 
             Console.WriteLine("Total number of duplicate elements: " + duplicateCount);
+            Console.ReadLine();
         }
     }
 }
